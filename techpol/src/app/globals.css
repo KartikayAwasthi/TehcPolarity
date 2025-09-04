@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-
+/*We are setting a standard resolution for the app*/
 
 body {
   max-width: 1280px; 
