@@ -25,7 +25,7 @@ const socialLinks: SocialLink[] = [
     { href: "https://www.youtube.com/channel/UCx2s9TZZK7lfV47GrP32OBg", icon: "/youtube-icon.png", alt: "YouTube" },
     { href: "https://www.instagram.com/techpolarity/", icon: "/instagram-icon.png", alt: "Instagram" },
     { href: "https://twitter.com", icon: "/twitter-icon.png", alt: "Twitter" },
-    { href: "mailto:your-email@gmail.com", icon: "/gmail-icon.png", alt: "Gmail" },
+    { href: "mailto:techpolarity@gmail.com ", icon: "/gmail-icon.png", alt: "Gmail" },
 ];
 
 const footerLinks: FooterLink[] = [
