@@ -1,12 +1,8 @@
-
-export default function ReviewsLayout({
-  children,
-}: {
-  children: React.ReactNode
-}) {
+export default function NewsLayout({ children }: { children: React.ReactNode }) {
   return (
-        <div className="flex flex-col min-h-screen px-4 md:px-8 lg:px-48">
-          {children}
-        </div>
+    <div className="flex flex-col min-h-screen px-5 md:px-6 lg:px-8">
+      
+      {children}
+    </div>
   );
 }
