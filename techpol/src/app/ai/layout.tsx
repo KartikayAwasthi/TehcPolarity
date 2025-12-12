@@ -1,12 +1,7 @@
-
-export default function AILayout({
-  children,
-}: {
-  children: React.ReactNode
-}) {
+export default function NewsLayout({ children }: { children: React.ReactNode }) {
   return (
-        <div className="flex flex-col min-h-screen px-4 md:px-8 lg:px-48">
-          {children}
-        </div>
+    <div className="flex flex-col min-h-screen px-3 md:px-4 lg:px-6">
+      {children}
+    </div>
   );
 }
