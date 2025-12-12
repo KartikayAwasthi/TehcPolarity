@@ -26,8 +26,7 @@ const Home: React.FC = () => {
   return (
     // The large horizontal padding classes have been removed from here.
     <div className="flex flex-col min-h-screen">
-      {/* Header Component */}
-      <Header />
+      
 
       {/* Sidebar Toggle Button */}
       <button
@@ -83,7 +82,7 @@ const Home: React.FC = () => {
       </div>
 
       <div className="p-2">
-        <Footer />
+       
       </div>
     </div>
   );
