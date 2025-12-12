@@ -274,7 +274,7 @@ export default function PrivacyPage() {
 
               <ul className="list-inside ml-4 text-gray-700 space-y-2">
                 <li>
-                  By email: <a href="mailto:ikartikay.awasthi@gmail.com" className="underline">{/* update if needed */}ikartikay.awasthi@gmail.com</a>
+                  By email: <a href="mailto:ikartikay.awasthi@gmail.com" className="underline">{/* update if needed */} techpolarity@gmail.com</a>
                 </li>
                 <li>
                   By visiting our contact page: <a href="/contact" className="underline">Contact</a>
